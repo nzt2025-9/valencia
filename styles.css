@@ -1,0 +1,33 @@
+/* Allgemeines Styling */
+
+body {
+    background-color: black;
+    font-family: Helvetica Now Text;
+    color: yellow;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+.meineKlasse {
+    font-size: 14px;
+    color:coral;
+}
+
+img {
+    width: 300px;
+}
+
+.video {
+    width: 400px;
+    height: 220px
+}
+
