@@ -62,3 +62,15 @@ img {
     gap: 30px;
 }
 
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer .footer-link {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 20px;
+    color: rgb(171, 215, 230);
+}
+
